@@ -1,1 +1,3 @@
 Pandey, S. & Ottley, A., “Mini-VLAT: A Short and Effective Measure of Visualization Literacy,” Computer Graphics Forum, vol. 42, no. 3, 2023. Available: https://washuvis.github.io/minivlat/Mini-VLAT_EuroVIS.pdf
+
+https://washuvis.github.io/minivlat/
